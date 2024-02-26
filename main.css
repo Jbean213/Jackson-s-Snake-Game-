@@ -1,0 +1,8 @@
+canvas {
+    border: 1px solid white;
+}
+
+#restartButton {
+    display: none;
+    margin-top: 10px;
+}
